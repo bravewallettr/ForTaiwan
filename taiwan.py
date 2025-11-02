@@ -5,6 +5,9 @@ from time import sleep
 import datetime
 import pygsheets
 
+
+
+lii
 options = Options()
 #將chrome設定於背景執行
 
