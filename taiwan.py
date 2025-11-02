@@ -8,6 +8,8 @@ import pygsheets
 options = Options()
 #將chrome設定於背景執行
 
+
+jvbn
 options.add_argument('--headless')
 options.add_argument('--disable-gpu') # 允許在無GPU的環境下運行，可選
 
